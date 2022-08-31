@@ -1,2 +1,2 @@
 #!/bin/bash
-Is -Ia
+ls -la
